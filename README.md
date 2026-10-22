@@ -1,7 +1,9 @@
 # Lavalamp-for-the-terminal
 lavalamp animation for the terminal
 
-[![Video Alt Text](https://img.youtube.com/vi/VThVMVB88rU/0.jpg)](https://youtu.be/qcpYMa-5yu0?si=VO3TcccV3pSfbjb8)
+[![Video Alt Text](https://github.com/user-attachments/assets/19f689a1-19ce-4c83-92d1-c8ed12266143)
+
+
 
 <br><br>
 
