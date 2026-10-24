@@ -2,8 +2,7 @@
 lavalamp animation for the terminal
 
 
-https://youtube.com/shorts/o8MJRS97yuw?feature=shared
-
+https://youtube.com/shorts/29QFWXQWb3s?is=fcEthAy2BNBJz6YE
 
 
 
