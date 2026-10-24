@@ -28,7 +28,7 @@ static float viscosity = 0.0f;
  * 0.0f = paused; 0.5f = half speed; 1.0f = normal; 2.0f = double speed.
  * This affects travel, sway, pulsing, ripples, and merge/separation cycles.
  */
-static float animation_speed = 1.5f;
+static float animation_speed = 2.5f;
 
 /*
  * METABALL FUSION / SEPARATION DISTANCE
@@ -46,7 +46,7 @@ static float fusion_distance = 1.35f;
  * Higher values increase smooth pulsing, edge deformation, and the strength
  * of the natural field fusion. This does not draw strands or strings.
  */
-static float liquidness = 2.75f;
+static float liquidness = 1.0f;
 
 /*
  * INDEPENDENT METABALL MERGE / SEPARATION CYCLE
