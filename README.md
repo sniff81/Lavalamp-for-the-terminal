@@ -2,8 +2,7 @@
 lavalamp animation for the terminal
 
 
-
-https://github.com/user-attachments/assets/a9938415-2065-47b9-b2b3-19490b39a7c5
+https://youtube.com/shorts/o8MJRS97yuw?feature=shared
 
 
 
